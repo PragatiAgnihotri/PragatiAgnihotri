@@ -25,7 +25,11 @@ fields_of_interests:
     "Sql"
   ]
   
-2024 Goals: ["Find an internship and probably get job in it going further and also aiming to complete a major project"]
+2024 Goals:
+  [
+    "Find an internship and probably get job in it going further",
+    "Also aiming to complete a major project"
+  ]
 
 hobbies:
   [
