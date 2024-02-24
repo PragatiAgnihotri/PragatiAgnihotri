@@ -82,11 +82,10 @@ Portfolio - pragatiagnihotri.github.io/Portfolio
 Here are some of the projects I've been working on: <br>
 
 ### [Cloud powered coding challenge platform](Link to Project)
-
-- Leading the development and deployment of a MERN stack web application on AWS, leveraging AWS Elastic Beanstalk for streamlined deployment and scalability.
-- Utilized Amazon RDS with MongoDB compatibility for efficient database operations.
-- Implemented AWS Lambda for serverless computing, enhancing scalability and reducing operational overhead.
-- Configured Amazon S3 and CloudFront for optimized content delivery and improved user experience.
+Leading the development and deployment of a MERN stack web application on AWS, leveraging AWS Elastic Beanstalk for streamlined deployment and scalability.
+Utilized Amazon RDS with MongoDB compatibility for efficient database operations.
+Implemented AWS Lambda for serverless computing, enhancing scalability and reducing operational overhead.
+Configured Amazon S3 and CloudFront for optimized content delivery and improved user experience.
 
 - ![Project Screenshot](Link to Screenshot)
 - ![Project GIF](Link to GIF)
@@ -95,16 +94,11 @@ Here are some of the projects I've been working on: <br>
 - Source Code: [Link to Source Code]
 
 ### [Cloud resource pooling](Link to Project)
-
-- Developed a flask-based cloud resource pooling web application,
-integrating AWS EC2 and S3 services using the Boto3 library.
-- Implemented robust authentication and authorization features to
-ensure secure user access.
-- Designed and maintained scalable infrastructure on AWS EC2 for high
-availability and performance.
-- Utilized AWS S3 for efficient data storage and backup strategies.
-- Implemented cost optimization practices including instance right-
-sizing and automated resource shutdown.
+Developed a flask-based cloud resource pooling web application, integrating AWS EC2 and S3 services using the Boto3 library.
+Implemented robust authentication and authorization features to ensure secure user access.
+Designed and maintained scalable infrastructure on AWS EC2 for high availability and performance.
+Utilized AWS S3 for efficient data storage and backup strategies.
+Implemented cost optimization practices including instance right-sizing and automated resource shutdown.
 
 - ![Project Screenshot](Link to Screenshot)
 - ![Project GIF](Link to GIF)
@@ -113,14 +107,9 @@ sizing and automated resource shutdown.
 - Source Code: [Link to Source Code]
 
 ### [E commerce website](Link to Project)
-
-- I spearheaded the conception, development, and implementation of a
-robust e-commerce website.
-- Leveraging my proficiency in web development, database
-management, and cloud computing, I created a seamless online
-shopping platform.
-- This project highlights my capacity to enhance organizational
-technology initiatives and improve customer engagement.
+I spearheaded the conception, development, and implementation of a robust e-commerce website.
+Leveraging my proficiency in web development, database management, and cloud computing, I created a seamless online shopping platform.
+This project highlights my capacity to enhance organizational technology initiatives and improve customer engagement.
 
 - ![Project Screenshot](Link to Screenshot)
 - ![Project GIF](Link to GIF)
