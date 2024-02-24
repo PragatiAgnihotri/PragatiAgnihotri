@@ -75,6 +75,7 @@ It will be available soon :-)
 ## Get in touch :coffee:
 LinkedIn - www.linkedin.com/in/pragati-agnihotri <br>
 Mail - pragati6123@gmail.com <br>
+Portfolio - pragatiagnihotri.github.io/Portfolio
 
 ## Projects 🛠️
 
